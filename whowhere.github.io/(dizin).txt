@@ -1,0 +1,139 @@
+<html><head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Whowhere</title>
+	<link rel="stylesheet" type="text/css" href="styled.css">
+	<link href="https://fonts.googleapis.com/css2?family=Inter&amp;family=Lato&amp;display=swap" rel="stylesheet">
+<link rel="shortcut icon" type="image/png" href="/botsitesi/ryzex.png"></head>
+	
+<body>
+	<header>
+		<h2>Kim Hansý Otaqda
+	<p>Aktiv otaqlar</p>
+	<select id="lg" onchange="f(this.value)">
+		<option value="23">Azerbaycanca</option>
+		<option value="8">Türkçe</option>
+		<option value="2">English</option>
+		<option value="7">???????</option>
+		<option value="55">Bahasa Melayu</option>
+		<option value="30">Català</option>
+		<option value="31">Dansk</option>
+		<option value="33">Eesti</option>
+		<option value="67">Esperanto</option>
+		<option value="36">Føroyskt</option>
+		<option value="37">Gaeilge</option>
+		<option value="38">Galego</option> 
+		<option value="43">Hrvatski</option> 
+		<option value="46">Íslenska</option>
+		<option value="66">Kurdî</option>
+		<option value="52">Latviešu</option>
+		<option value="50">Lëtzebuergesch</option>
+		<option value="68">Lietuviu</option>
+		<option value="56">Malti</option>
+		<option value="53">M?????????</option>
+		<option value="65">Norsk</option>
+		<option value="61">Shqip</option>
+		<option value="59">Slovenšcina</option> 
+		<option value="35">Suomi</option>
+		<option value="24">Svenska</option>
+		<option value="62">Türkmen</option> 
+		<option value="64">Yorùbá</option>
+		<option value="32">????????</option>
+		<option value="27">??????????</option> 
+		<option value="29">????????</option>
+		<option value="54">?????? ???</option>
+		<option value="60">??????</option>
+		<option value="63">??????????</option> 
+		<option value="49">????? T???</option> 
+		<option value="42">???????</option> 
+		<option value="41">??????</option>
+		<option value="28">?????</option>
+		<option value="39">???????</option>
+		<option value="51">???????</option> 
+		<option value="57">??????????</option>
+		<option value="47">???????</option>
+		<option value="25">????</option>
+		<option value="48">?????????</option>
+	</select>
+	<div class="flex"><div class="flex-child"><h3>1cq</h3><img src="https://gartic.io/static/images/subjects/14.svg"><p>5 / 5 · 0 / 70</p><div class="users"><div class="user-info"><img src="https://lh3.googleusercontent.com/a/ACg8ocJ6SHu2qAEkCrt-k9I-U0Bx4z3wSYGOI95NOs1XAEDEvoo=s300"><p>Begi</p></div><div class="user-info"><img src="https://lh3.googleusercontent.com/a/ACg8ocIdcWFJj6dy1tXa-EayZaBwz86k40p5axQfb8mz_XAcuR8=s300"><p>???ÄÄ</p></div><div class="user-info"><img src="https://lh3.googleusercontent.com/a/ACg8ocKjdWMXPLMThUq0xOd5oYKx6gTt1vBRJFFn_4USJMJpd0Q=s300"><p>Leyla</p></div><div class="user-info"><img src="https://gartic.io/static/images/avatar/svg/0.svg"><p>User</p></div><div class="user-info"><img src="https://lh3.googleusercontent.com/a/ACg8ocJEg5xPNOb_GFXXgpiJfZPxluksl6I8wjWpuP7fPVU8rls=s300"><p>°?älîþ°4²•</p></div></div><a href="https://gartic.io/53e1cq/viewer" target="_blank">Viewer için tikla</a></div><div class="flex-child"><h3>30O</h3><img src="https://gartic.io/static/images/subjects/16.svg"><p>2 / 5 · 0 / 120</p><div class="users"><div class="user-info"><img src="https://gartic.io/static/images/avatar/svg/0.svg"><p>User2024</p></div><div class="user-info"><img src="https://gartic.io/static/images/avatar/svg/0.svg"><p>User4756</p></div></div><a href="https://gartic.io/53g30O/viewer" target="_blank">Viewer için tikla</a></div><div class="flex-child"><h3>3by</h3><img src="https://gartic.io/static/images/subjects/24.svg"><p>2 / 5 · 0 / 480</p><div class="users"><div class="user-info"><img src="https://lh3.googleusercontent.com/a/ACg8ocJcXNq0QMj38vSKIHYfbwcFsC59Mm3QB1UQDUdbRfRIsdw=s300"><p>SHREK</p></div><div class="user-info"><img src="https://lh3.googleusercontent.com/a/ACg8ocLNOhoLti6merw1_xJVsZD1ZBIGQVbRqxoWAW58Toeuew=s300"><p>Meybýl</p></div></div><a href="https://gartic.io/53o3by/viewer" target="_blank">Viewer için tikla</a></div><div class="flex-child"><h3>3dE</h3><img src="https://gartic.io/static/images/subjects/24.svg"><p>4 / 5 · 0 / 120</p><div class="users"><div class="user-info"><img src="https://lh3.googleusercontent.com/a/ACg8ocL2baq00nKFpqDkLW-BqSKvkLkzk-qMsX5QgtX03JV8Ba0=s300"><p>()</p></div><div class="user-info"><img src="https://lh3.googleusercontent.com/a/ACg8ocJSiFDzPJaguHd_6wcHHzykGCvyAuP7rB9NsDt0p7qdlf0=s300"><p>~lady~</p></div><div class="user-info"><img src="https://gartic.io/static/images/avatar/svg/0.svg"><p>User</p></div><div class="user-info"><img src="https://lh3.googleusercontent.com/a/ACg8ocLMSjiP6wqVtEnbxEOoAhvOrczkQbnIJlg32zG8OWKvhfk=s300"><p>&lrm; &lrm; &lrm; &lrm; &lrm; &lrm; &lrm; &lrm; w4</p></div></div><a href="https://gartic.io/53o3dE/viewer" target="_blank">Viewer için tikla</a></div><div class="flex-child"><h3>BXU</h3><img src="https://gartic.io/static/images/subjects/32.svg"><p>4 / 5 · 0 / 70</p><div class="users"><div class="user-info"><img src="https://lh3.googleusercontent.com/a/ACg8ocLzLOMdCi8_5WXgRi6uaL1vqg-vQqCCSxCw3zRJ72a-jA=s300"><p>57575757 ?</p></div><div class="user-info"><img src="https://lh3.googleusercontent.com/a/ACg8ocIfnRBGwgpCZCgp3KL-ZlTJFIH2dj_z4m7es1c1_MvfPA=s300"><p>Bilinmeyenn</p></div><div class="user-info"><img src="https://lh3.googleusercontent.com/a/ACg8ocIVt-vw5ND6xEjwXAyn1oA7A-qlooj1Jm0s9VDMa2378g=s300"><p>ZÌKØ</p></div><div class="user-info"><img src="https://lh3.googleusercontent.com/a/ACg8ocJMnScC10p2PLHY6ghdy7WY-xzpbD8DmRNJ2277PpAwLg=s300"><p>Nilay_•</p></div><div class="user-info"><img src="https://lh3.googleusercontent.com/a/ACg8ocJget3dA35TMoEJORUFOOC1A14GNMh7jOxJNoAFrMiV8A=s300"><p>~~~~~</p></div></div><a href="https://gartic.io/53wBXU/viewer" target="_blank">Viewer için tikla</a></div><div class="flex-child"><h3>1H6</h3><img src="https://gartic.io/static/images/subjects/37.svg"><p>2 / 5 · 0 / 120</p><div class="users"><div class="user-info"><img src="https://gartic.io/static/images/avatar/svg/0.svg"><p>reginae</p></div><div class="user-info"><img src="https://gartic.io/static/images/avatar/svg/0.svg"><p>Ruslan</p></div></div><a href="https://gartic.io/53B1H6/viewer" target="_blank">Viewer için tikla</a></div></div>
+	<footer>
+		<p>Alzheimer </p>
+	</footer>
+<script>
+	// by Alzheimer, in 2031
+	const fl = document.querySelector('.flex');
+
+	let roomIds = [];
+
+	function f(lang){
+		fetch('https://gartic.io/req/list?search=&language[]=' + lang)
+		.then(res => res.json())
+		.then(data => {
+			const active = data.filter(room => room.quant > 0);
+			if(active.length != 0){
+				fl.innerHTML = '';
+				for (let k = 0; k < active.length; k++){
+					roomIds.push(active[k].id);
+
+					const flc = document.createElement('div');
+					flc.classList.add('flex-child');
+					fl.appendChild(flc);
+
+					const roomTag = document.createElement('h3');
+					const roomSubjIcon = document.createElement('img');
+					const inRoomPlayers = document.createElement('p');
+					const users = document.createElement('div');
+					const viewBtn = document.createElement('a');
+
+					users.classList.add('users');
+
+					roomTag.innerHTML = active[k].id.slice(1);
+					roomSubjIcon.src = `https://gartic.io/static/images/subjects/${active[k].subject}.svg`;
+					inRoomPlayers.innerHTML = `${active[k].quant} / ${active[k].max} · ${active[k].points} / ${active[k].goal}`;
+					viewBtn.href = `https://gartic.io/${active[k].code}/viewer`;
+					viewBtn.innerHTML = 'Viewer için tikla';
+					viewBtn.target = '_blank';
+
+					fetch(`https://gartic.io/serverViewer?room=${active[k].code}`).then(rs => rs.text()).then(dt => {
+						const s = dt.slice(15, 16);
+						const ws = new WebSocket(`wss://server0${s}.gartic.io/socket.io/?EIO=3&transport=websocket`);
+
+						ws.onopen = () => {
+							ws.send(`42[12,{"v":20000,"sala":"${roomIds[k]}"}]`);
+						}
+
+						ws.onmessage = (m) => {
+							try{
+								const d = JSON.parse(m.data.slice(2));
+								if(d[0] == 5){
+									for(let i = 0; i < d[5].length; i++){
+										const userB = document.createElement('div');
+										userB.classList.add('user-info');
+										users.appendChild(userB);
+
+										const userPp = document.createElement('img');
+										const userName = document.createElement('p');
+
+										userPp.src = d[5][i].foto ? d[5][i].foto : 'https://gartic.io/static/images/avatar/svg/0.svg';
+										userName.innerHTML = d[5][i].nick;
+
+										userB.append(userPp, userName);
+									}
+								}
+							}
+							catch(err) {
+
+							}
+						}
+					});
+
+					flc.append(roomTag, roomSubjIcon, inRoomPlayers, users, viewBtn);
+				}
+			} else fl.innerHTML = '<h2>There is no room in selected lang.</h2>'
+		});
+	}
+
+	f('23');
+</script>
+
+</h2></header><div id="torrent-scanner-popup" style="display: none;"></div></body></html>
